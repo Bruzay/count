@@ -1,0 +1,252 @@
+body{
+    box-sizing: border-box;
+    background-color: black;
+    color:#fff;
+}
+html, body{
+    height: 100%;
+    margin: 0;
+}
+}
+@media  screen and (width: 600px) and (min-height: 900px){
+    #main-container{
+        background-image: url('image2.jpg');
+        margin-top: 0px;
+        height: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        overflow: auto;
+    }
+    #counter-box{
+        background-image: url('image2.jpg');
+        margin-top: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 0px;
+        box-shadow: 0 4px 2px -2px black;
+        border: 1px solid white;
+        padding-top: 1px;
+        height: 80%;
+    }
+    #counter{
+        margin-top:50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    #lower{
+        background-color: rgb(2, 2, 84);
+        color: white;
+        margin-top: 200px;
+        border-radius: 8%;
+        border-color: rgb(2, 2, 84);
+        box-shadow: 0 4px 2px -2px black;
+    }
+    #higher{
+        background-color: rgb(2, 2, 84);
+        color: white;
+        margin-top: 20px;
+        border-color: rgb(2, 2, 84);
+        border-radius: 8%;
+        box-shadow: 0 4px 2px -2px black;
+    }
+    #value{
+        font-family: sans-serif;
+        font-size: 170px;
+        color: green;
+    }
+}
+@media  screen and (min-width: 768px) and (min-height: 900px){
+    #main-container{
+        background-image: url('image2.jpg');
+        margin-top: 0px;
+        height: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        overflow: auto;
+    }
+    #counter-box{
+        background-image: url('image2.jpg');
+        margin-top: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 0px;
+        box-shadow: 0 4px 2px -2px black;
+        border: 1px solid white;
+        padding-top: 1px;
+        height: 80%;
+    }
+    #counter{
+        margin-top:50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    #lower{
+        background-color: rgb(2, 2, 84);
+        color: white;
+        margin-top: 200px;
+        border-radius: 8%;
+        border-color: rgb(2, 2, 84);
+        box-shadow: 0 4px 2px -2px black;
+    }
+    #higher{
+        background-color: rgb(2, 2, 84);
+        color: white;
+        margin-top: 20px;
+        border-color: rgb(2, 2, 84);
+        border-radius: 8%;
+        box-shadow: 0 4px 2px -2px black;
+    }
+    #value{
+        font-family: sans-serif;
+        font-size: 170px;
+        color: green;
+    }
+}
+
+@media  screen and (max-width: 900px) and (max-height: 900px){
+    #main-container{
+        background-image: url('image2.jpg');
+        margin-top: 0px;
+        height: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        overflow: auto;
+    }
+    #counter-box{
+        background-image: url('image2.jpg');
+        margin-top: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 0px;
+        box-shadow: 0 4px 2px -2px black;
+        border: 1px solid white;
+        padding-top: 1px;
+        height: 80%;
+    }
+    #counter{
+        margin-top:50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    #lower{
+        background-color: rgb(2, 2, 84);
+        color: white;
+        margin-top: 200px;
+        border-radius: 8%;
+        border-color: rgb(2, 2, 84);
+        box-shadow: 0 4px 2px -2px black;
+    }
+    #higher{
+        background-color: rgb(2, 2, 84);
+        color: white;
+        margin-top: 20px;
+        border-color: rgb(2, 2, 84);
+        border-radius: 8%;
+        box-shadow: 0 4px 2px -2px black;
+    }
+    #value{
+        font-family: sans-serif;
+        font-size: 70px;
+        color: green;
+    }
+}
+@media screen and (max-height: 600px) and (max-width: 400px){
+    #main-container{
+        background-image: url('image2.jpg');
+        margin-top: 0px;
+        height: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        overflow: auto;
+    }
+    #counter-box{
+        background-image: url('image2.jpg');
+        margin-top: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 0px;
+        box-shadow: 0 4px 2px -2px black;
+        border: 1px solid white;
+        padding-top: 1px;
+        height: 80%;
+    }
+    #counter{
+        margin-top: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    #lower{
+        background-color: rgb(2, 2, 84);
+        color: white;
+        margin-top: 100px;
+        border-radius: 8%;
+        border-color: rgb(2, 2, 84);
+        box-shadow: 0 4px 2px -2px black;
+    }
+} 
+
+@media only screen and (min-width: 900px){
+    #main-container{
+        background-image: url('image2.jpg');
+        margin-top: 5%px;
+        height: 95%;
+        margin-left: 27%;
+        margin-right: 27%;
+        
+        overflow: auto;
+    }
+
+    #counter-box{
+        background-image: url('image2.jpg');
+        margin-top: 30px;
+        margin-left: 90px;
+        margin-right: 80px;
+        border: 1px solid white;
+        box-shadow: 0 4px 2px -2px black;
+        height: 520px;
+        padding-top: 1px;
+        margin-bottom: 30px;
+    }
+
+    #counter{
+        margin-top: 50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+
+    #lower{
+        margin-top: 25px;
+        background-color: rgb(2, 2, 84);
+        color: white;
+        border-radius: 8%;
+        border-color: rgb(2, 2, 84);
+        height: 40px;
+        box-shadow: 0 4px 2px -2px black;
+    }
+
+    #higher{
+        margin-top: 10px;
+        background-color: rgb(2, 2, 84);
+        color: white;
+        border-radius: 8%;
+        border-color: rgb(2, 2, 84);
+        height: 40px;
+        box-shadow: 0 4px 2px -2px black;
+    }
+
+    #value{
+        font-family: sans-serif;
+        font-size: 170px;
+        color: green
+    }
+
+    a{
+        margin-top: 20px;
+    }
+}
+
+
